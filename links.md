@@ -6,3 +6,6 @@ A basic vim usage for txt editing
 - [How To Create A File In Linux: Touch, Cat, Echo, Printf Command](https://unstop.com/blog/how-to-create-a-file-in-linux)
 Basic linux commands for creating a file
 
+- [Linux Crash Course - nano (command-line text editor)](https://www.youtube.com/watch?v=DLeATFgGM-A&ab_channel=LearnLinuxTV)
+An alternative text editor
+
