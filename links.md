@@ -15,3 +15,6 @@ An alternative text editor
 
 - [Working with tarballs on Linux](https://www.networkworld.com/article/966808/working-with-tarballs-on-linux.html)
 Simple tips on tarball and their commands.
+
+- [C Functions](https://www.geeksforgeeks.org/c-functions/)
+C Function syntax.
