@@ -18,3 +18,6 @@ Simple tips on tarball and their commands.
 
 - [C Functions](https://www.geeksforgeeks.org/c-functions/)
 C Function syntax.
+
+- [How to Copy Files from One Linux Server to Another | SCP Command For Beginners](https://www.youtube.com/watch?v=7K3tAhArPUY)
+How to scp
