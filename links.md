@@ -21,3 +21,9 @@ C Function syntax.
 
 - [How to Copy Files from One Linux Server to Another | SCP Command For Beginners](https://www.youtube.com/watch?v=7K3tAhArPUY)
 How to scp
+
+- [Untar Linux Files with ‘tar -xvf’ Command | How-to Guide](https://ioflood.com/blog/untar-linux-command/)
+How to Extract tar
+
+- [How to Remove Empty and Non Empty Directories in Linux](https://dev.to/smpnjn/how-to-remove-empty-and-non-empty-directories-in-linux-2pi2)
+How to delete directory
