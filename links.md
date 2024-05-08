@@ -27,3 +27,9 @@ How to Extract tar
 
 - [How to Remove Empty and Non Empty Directories in Linux](https://dev.to/smpnjn/how-to-remove-empty-and-non-empty-directories-in-linux-2pi2)
 How to delete directory
+
+
+-[Bash Scripting – Introduction to Bash and Bash Scripting](https://www.geeksforgeeks.org/bash-scripting-introduction-to-bash-and-bash-scripting/)bash scripting resource
+
+
+
